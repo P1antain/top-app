@@ -1,5 +1,5 @@
 import { HeadersProps } from "./Headers.props";
-import styles from './Headers.module.css';
+import styles from "./Headers.module.css";
 
 export const Headers = ({ tag, children }: HeadersProps): JSX.Element => {
   switch (tag) {
