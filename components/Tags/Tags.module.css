@@ -16,22 +16,22 @@
   font-size: 12px;
   line-height: 12px;
 }
-.ghost{
-    border: 1px solid var(--gray-ligth);
+.ghost {
+  border: 1px solid var(--gray-ligth);
 }
-.red{
-    color: var(--white);
-    background: var(--red-extra);
+.red {
+  color: var(--white);
+  background: var(--red-extra);
 }
-.gray{
-    color: #B3C0D9;
+.gray {
+  color: #b3c0d9;
 }
-.green{
-    color: var(--green);
-    background: var(--green-ligth);
+.green {
+  color: var(--green);
+  background: var(--green-ligth);
 }
-.primary{
-    color: var(--primary);
-    background: none;
-    border: 1px solid var(--primary);
+.primary {
+  color: var(--primary);
+  background: none;
+  border: 1px solid var(--primary);
 }
